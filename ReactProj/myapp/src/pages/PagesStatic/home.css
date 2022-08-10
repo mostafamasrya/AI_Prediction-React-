@@ -1,0 +1,29 @@
+h1{
+    color: rgb(46, 3, 46);
+}
+.para1{
+    color: rgb(46, 3, 46);
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.para{
+    font-size: 2rem;
+}
+.icon1{
+    font-size: 1.5rem;
+}
+
+.para2{
+    color: grey;
+}
+
+.img1{
+    width: 30rem;
+
+}
+
+.mycolor{
+    color: rgb(46, 3, 46);
+
+}
